@@ -25,7 +25,7 @@
 		"file-saver": "^2.0.2",
 		"highlight.js": "github:highlightjs/highlight.js#cli",
 		"js-base64": "^2.5.1",
-		"jszip": "^3.2.2",
+		"jszip": "^3.7.0",
 		"masonry-layout": "^4.2.2",
 		"ngclipboard": "^2.0.0",
 		"notie": "^4.3.1"
